@@ -33,5 +33,8 @@ object P16 {
     print("\n");
     print(dropTailRecursive(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)));
     print("\n");
+    print(dropFunctional(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)));
+    print("\n");
+
   }
 }
